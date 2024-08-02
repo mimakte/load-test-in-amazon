@@ -1,6 +1,6 @@
 # load-test-in-amazon
 A load testing tool:
-Java Development Kit (JDK) if using JMeter 
+Java Development Kit (JDK) if using JMeter. 
 
 Installation:
 Install the load testing tool of your choice following the official installation guide.
@@ -12,14 +12,14 @@ Set up the test scenarios, including the number of users, ramp-up period, and te
 Define the requests and expected responses in your test script.
 
  Testing:
- Home page 
- Login page 
- Order page 
+ Home page. 
+ Login page. 
+ Order page. 
 
  Test result Analysis:
- 10 users cannot enter home page in 1 second
- 10 users cannot login in 1 second
- 10 users cannot order in 1 second
+ 10 users cannot enter home page in 1 second.
+ 10 users cannot login in 1 second.
+ 10 users cannot order in 1 second.
  
    
   
