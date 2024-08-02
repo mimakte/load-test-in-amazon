@@ -11,6 +11,15 @@ Configure the load testing tool to point to the correct URL of the application o
 Set up the test scenarios, including the number of users, ramp-up period, and test duration.
 Define the requests and expected responses in your test script.
 
-    
+ Testing:
+ Home page 
+ Login page 
+ Order page 
+
+ Test result Analysis:
+ 10 users cannot enter home page in 1 second
+ 10 users cannot login in 1 second
+ 10 users cannot order in 1 second
+ 
    
   
